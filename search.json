@@ -4,7 +4,7 @@
     "href": "project.html",
     "title": "Project",
     "section": "",
-    "text": "หน้ารวม Project ต่าง ๆ\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+    "text": "หน้ารวม Project ต่าง ๆ\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Description\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nvibegame: PCR Adventure\n\n\nAn Adventure of young teenager in fallout world (AI generated vn for school project)\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/food/1/index.html",
@@ -40,13 +40,6 @@
     "title": "Documentation",
     "section": "",
     "text": "“เขียนไปเรื่อย” บันทึกบ้าง บทความบ้าง รวม ๆ อยู่ในนี้แหละ\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n16/09/2025\n\n\nการใช้โปรแกรมสถิติ R ในการคำนวณสถิติทางระบาดวิทยาเบื้องต้น โดยใช้ library data.table\n\n\nKasidach P.\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "food.html",
@@ -116,6 +109,6 @@
     "href": "posts/food/2/index.html#ขอมลราน-baan-กะท",
     "title": "BAAN กะทู้",
     "section": "ข้อมูลร้าน BAAN กะทู้",
-    "text": "ข้อมูลร้าน BAAN กะทู้\n\nเวลาเปิด ⏰ : เปิดทุกวัน 9:30 - 21:30 น.\nพิกัด 📍: ถนนวิชิตสงคราม อ.กะทู้ พ้นม.อ. ภูเก็ตมานิดเดียวก็ถึงเลย"
+    "text": "ข้อมูลร้าน BAAN กะทู้\n\nเวลาเปิด ⏰ : เปิดทุกวัน 9:30 - 21:00 น.\nพิกัด 📍: ถนนวิชิตสงคราม อ.กะทู้ พ้นม.อ. ภูเก็ตมานิดเดียวก็ถึงเลย"
   }
 ]
