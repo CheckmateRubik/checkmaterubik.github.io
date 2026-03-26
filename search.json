@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "project.html",
-    "href": "project.html",
-    "title": "Project",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CheckmateRubik",
     "section": "",
-    "text": "หน้ารวม Project ต่าง ๆ\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Description\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nvibegame: PCR Adventure\n\n\nAn Adventure of young teenager in fallout world (AI generated vn for school project)\n\n\n\n\n\n\nNo matching items"
+    "text": "Howdy!, Welcome to my webpage 👋\nI’m just a programming hobbyist, who’s just coding for fun\nthis site created in Quarto\n\n\n🛠️ My Toolbox\n   \n\nTake a look around at my latest Tech docs or check out my Taste Diary."
+  },
+  {
+    "objectID": "food.html",
+    "href": "food.html",
+    "title": "Taste Diary",
+    "section": "",
+    "text": "รีวิวอาหาร ส่งต่อความอร่อยให้เพื่อน ๆ ตามประสาคนที่ชอบกินคนหนึ่ง\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBAAN กะทู้\n\n\n\nภูเก็ต\n\nอาหารตามสั่ง\n\n\n\n\n\n\n\n\n\n\n20/06/2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nก๋วยเตี๋ยวต้มยำหมูชากังราว\n\n\n\nภูเก็ต\n\nก๋วยเตี๋ยว\n\n\n\n\n\n\n\n\n\n\n16/06/2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/food/1/index.html",
@@ -26,27 +33,6 @@
     "title": "ก๋วยเตี๋ยวต้มยำหมูชากังราว",
     "section": "ข้อมูลร้านก๋วยเตี๋ยวหมูต้มยำชากังราว",
     "text": "ข้อมูลร้านก๋วยเตี๋ยวหมูต้มยำชากังราว\n\nเวลาเปิด ⏰ : เปิดทุกวัน 11:00 - 21:30 น.\nพิกัด 📍: ถนนปฎิพัทธิ์ ข้าง ๆ ร้านโกเบ๊นซ์ ตรงมาได้เลย\nที่จอดรถ 🚘: สามารถเข้าไปจอดรถที่ข้างในศาลเข้าแม่ย่านาง หรือลานจอดรถถนนกระบี่ (มากินร้านชากังราวจอดฟรี)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Checkmaterubik’s Homepage",
-    "section": "",
-    "text": "Coming soon"
-  },
-  {
-    "objectID": "docs.html",
-    "href": "docs.html",
-    "title": "Documentation",
-    "section": "",
-    "text": "“เขียนไปเรื่อย” บันทึกบ้าง บทความบ้าง รวม ๆ อยู่ในนี้แหละ\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n16/09/2025\n\n\nการใช้โปรแกรมสถิติ R ในการคำนวณสถิติทางระบาดวิทยาเบื้องต้น โดยใช้ library data.table\n\n\nKasidach P.\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "food.html",
-    "href": "food.html",
-    "title": "Taste Diary",
-    "section": "",
-    "text": "รีวิวอาหาร ส่งต่อความอร่อยให้เพื่อน ๆ ตามประสาคนที่ชอบกินคนหนึ่ง\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBAAN กะทู้\n\n\n\nภูเก็ต\n\nอาหารตามสั่ง\n\n\n\n\n\n\n\nKasidach P.\n\n\n20/06/2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nก๋วยเตี๋ยวต้มยำหมูชากังราว\n\n\n\nภูเก็ต\n\nก๋วยเตี๋ยว\n\n\n\n\n\n\n\nKasidach P.\n\n\n16/06/2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/docs/1/index.html",
@@ -110,5 +96,26 @@
     "title": "BAAN กะทู้",
     "section": "ข้อมูลร้าน BAAN กะทู้",
     "text": "ข้อมูลร้าน BAAN กะทู้\n\nเวลาเปิด ⏰ : เปิดทุกวัน 9:30 - 21:00 น.\nพิกัด 📍: ถนนวิชิตสงคราม อ.กะทู้ พ้นม.อ. ภูเก็ตมานิดเดียวก็ถึงเลย"
+  },
+  {
+    "objectID": "docs.html",
+    "href": "docs.html",
+    "title": "Documentation",
+    "section": "",
+    "text": "“เขียนไปเรื่อย” บันทึกบ้าง บทความบ้าง รวม ๆ อยู่ในนี้แหละ\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\n16/09/2025\n\n\nการใช้โปรแกรมสถิติ R ในการคำนวณสถิติทางระบาดวิทยาเบื้องต้น โดยใช้ library data.table\n\n\nCheckmateRubik \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "หน้ารวม Project ต่าง ๆ\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Description\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nvibegame: PCR Adventure\n\n\nAn Adventure of young teenager in fallout world (AI generated vn for school project)\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "CheckmateRubik",
+    "section": "",
+    "text": "Take a look around at my latest Tech Notes or check out my Taste Diary.\n\n\n\n\n\nVisitors"
   }
 ]

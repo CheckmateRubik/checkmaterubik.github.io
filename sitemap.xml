@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://checkmaterubik.github.io/project.html</loc>
-    <lastmod>2026-02-02T11:49:55.721Z</lastmod>
-  </url>
-  <url>
-    <loc>https://checkmaterubik.github.io/posts/food/1/index.html</loc>
-    <lastmod>2026-01-30T00:19:22.850Z</lastmod>
-  </url>
-  <url>
     <loc>https://checkmaterubik.github.io/index.html</loc>
-    <lastmod>2026-01-30T00:19:22.817Z</lastmod>
-  </url>
-  <url>
-    <loc>https://checkmaterubik.github.io/docs.html</loc>
-    <lastmod>2026-02-02T11:36:39.787Z</lastmod>
+    <lastmod>2026-03-26T17:13:00.087Z</lastmod>
   </url>
   <url>
     <loc>https://checkmaterubik.github.io/food.html</loc>
-    <lastmod>2026-01-30T00:19:22.816Z</lastmod>
+    <lastmod>2026-03-19T15:33:49.080Z</lastmod>
+  </url>
+  <url>
+    <loc>https://checkmaterubik.github.io/posts/food/1/index.html</loc>
+    <lastmod>2026-03-26T15:32:13.584Z</lastmod>
   </url>
   <url>
     <loc>https://checkmaterubik.github.io/posts/docs/1/index.html</loc>
-    <lastmod>2026-01-30T00:19:22.821Z</lastmod>
+    <lastmod>2026-03-26T15:32:11.677Z</lastmod>
   </url>
   <url>
     <loc>https://checkmaterubik.github.io/posts/food/2/index.html</loc>
-    <lastmod>2026-02-02T11:31:40.424Z</lastmod>
+    <lastmod>2026-03-26T15:30:51.400Z</lastmod>
+  </url>
+  <url>
+    <loc>https://checkmaterubik.github.io/docs.html</loc>
+    <lastmod>2026-03-19T15:33:49.080Z</lastmod>
+  </url>
+  <url>
+    <loc>https://checkmaterubik.github.io/project.html</loc>
+    <lastmod>2026-03-19T15:33:49.152Z</lastmod>
   </url>
 </urlset>

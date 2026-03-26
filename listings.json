@@ -1,7 +1,10 @@
 [
   {
-    "listing": "/project.html",
-    "items": []
+    "listing": "/food.html",
+    "items": [
+      "/posts/food/2/index.html",
+      "/posts/food/1/index.html"
+    ]
   },
   {
     "listing": "/docs.html",
@@ -10,10 +13,7 @@
     ]
   },
   {
-    "listing": "/food.html",
-    "items": [
-      "/posts/food/2/index.html",
-      "/posts/food/1/index.html"
-    ]
+    "listing": "/project.html",
+    "items": []
   }
 ]
